@@ -6,9 +6,11 @@ An experiment was conducted with 30 subjects performing six actitives which incl
 
 The final table should consist of a format similar to what's described below:
 
-*Subject_Id - This column identifed the 30 subject who was involed in the study
-*Activity - The column identifed the activity that was being conduct with the data was collected from the sensor
-*The rest of the columns where the data that was gotten from the sensors. The data from the sensors are listed below
+Subject_Id - This column identifed the 30 subject who was involed in the study
+
+Activity - The column identifed the activity that was being conduct with the data was collected from the sensor
+
+The rest of the columns where the data that was gotten from the sensors. The data from the sensors are listed below
 
 tBodyAcc-XYZ
 tGravityAcc-XYZ
